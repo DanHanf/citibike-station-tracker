@@ -6,4 +6,5 @@ I whipped this up to get familiar with Koa and generators in general. It's also 
 _How Do You Do?_
 
 `npm install`
+
 `node --harmony app`
